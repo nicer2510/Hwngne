@@ -5,6 +5,6 @@ const titleCard = 'Tặng em';
 const contentCard = 'Nhân ngày 8/3, a chúc em a lờ lờ ^^^';
 
 
-const giftImage = '/img/Screenshot 2023-11-29 142105.png';
+const giftImage = '../img/Screenshot 2023-11-29 142105.png';
 const base64 = '';
 const giftImageBase64 = "data:image/png;base64, " + base64;
