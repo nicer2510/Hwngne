@@ -1,5 +1,4 @@
 
-
 var to = "Elm";
 var gift_url = 'https://www.instagram.com/p/C4F0sAnPsHoOul77fPth5J3ocNW3SJYLMXhT9o0/?hl=vi';
 var gift_image_url = '../img/399764941_318874404274704_1207779042902588204_n.jpg';
